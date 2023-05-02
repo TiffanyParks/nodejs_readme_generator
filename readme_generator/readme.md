@@ -8,7 +8,7 @@ About the App
 	"license": "The MIT License",
 	"guestions": "https://github.com/TiffanyParks/nodejs_readme_generator",
 	"email": "n/a",
-	"image": "To be attached later"
+	"image": "Attached below"
 }
 
 User Story
@@ -31,3 +31,5 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/126128634/235743470-d171c7dc-d290-48b0-84f2-1355156ee7ec.png">
