@@ -32,5 +32,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-https://watch.screencastify.com/v/7mUEpOlzqIlJUUAuWtvb
+
 <img width="406" alt="image" src="https://user-images.githubusercontent.com/126128634/235743470-d171c7dc-d290-48b0-84f2-1355156ee7ec.png">
+
+https://watch.screencastify.com/v/7mUEpOlzqIlJUUAuWtvb
